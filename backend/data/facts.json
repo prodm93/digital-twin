@@ -1,0 +1,66 @@
+{
+  "full_name": "Prodhi Manisha",
+  "name": "Prodhi",
+  "current_role": "Founder & AI Solutions Architect at Confluente Ltda",
+  "location": "Belo Horizonte, Brazil (remote, flexible working hours)",
+  "email": "mprodhi@gmail.com",
+  "linkedin": "linkedin.com/in/prodhi-manisha",
+  "github": "github.com/prodm93",
+  "huggingface": "huggingface.co/prodm93",
+  "specialties": [
+    "Biomedical and healthcare AI systems",
+    "RAG pipelines and document QA from messy, unstructured data",
+    "Clinical and scientific-literature NLP",
+    "LLM fine-tuning (PEFT, LoRA/qLoRA), evaluation and synthetic data generation",
+    "Therapeutic and mental-health AI chatbots",
+    "Agentic workflows and automation (n8n, LangChain)",
+    "Human-centred and ethical AI design",
+    "AI product management and strategy (roadmapping, user research, KPIs)",
+    "Automation solutions architecture (n8n, Airtable, multi-platform content pipelines)",
+    "End-to-end product development, ideation to deployment",
+    "A/B testing, analytics dashboards and performance tracking",
+    "API design, database architecture and cloud deployment (AWS, GCP, Azure)",
+    "Translating fuzzy business requirements into concrete technical pipelines"
+  ],
+  "alternate_titles": [
+    "AI Developer, Strategist & Solutions Architect",
+    "AI Product Manager, Strategist & Solutions Architect",
+    "Automation Specialist & GenAI Developer"
+  ],
+  "open_to": [
+    "Biomedical AI, healthtech and clinical NLP",
+    "General AI/ML and GenAI engineering",
+    "AI product management and strategy",
+    "Automation and solutions architecture"
+  ],
+  "years_experience": 4,
+  "languages": [
+    "English (native)",
+    "French (conversational)",
+    "Icelandic (intermediate)",
+    "Portuguese (basic)",
+    "Spanish (basic)"
+  ],
+  "education": [
+    {
+      "degree": "MSc Applied Data Science & AI",
+      "institution": "Open Institute of Technology",
+      "year": "2026"
+    },
+    {
+      "degree": "MSc Molecular Biology & Biomedicine (9.15/10.0)",
+      "institution": "University of the Basque Country",
+      "year": "2020"
+    },
+    {
+      "degree": "BSc (Hons) Combined STEM, First Class Honours",
+      "institution": "The Open University, UK",
+      "year": "2019"
+    },
+    {
+      "degree": "Engineering Sciences (Bioengineering)",
+      "institution": "Dartmouth College, USA",
+      "year": "2017"
+    }
+  ]
+}
